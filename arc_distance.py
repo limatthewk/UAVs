@@ -12,3 +12,4 @@ x,y = fsolve(func, [1,1], args=data)
 print x,y
 d = sqrt((data[0]-x)**2+(data[1]-y)**2)
 print d
+#make a change
